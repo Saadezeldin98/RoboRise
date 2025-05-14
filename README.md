@@ -1,6 +1,6 @@
 # RoboRise
 
-![GamePic](https://github.com/user-attachments/assets/eeb5c0bc-2c79-42f0-92de-55b2e9ca482f)
+![RoboRise Gameplay](https://github.com/user-attachments/assets/eeb5c0bc-2c79-42f0-92de-55b2e9ca482f)
 
 
 ## About the Game
