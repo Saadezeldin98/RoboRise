@@ -1,14 +1,13 @@
 # RoboRise
 
-![RoboRise Gameplay](https://github.com/user-attachments/assets/eeb5c0bc-2c79-42f0-92de-55b2e9ca482f)
-
-
 ## About the Game
 
 RoboRise is an action-packed space shooter game where you control a spacecraft to fight enemies, collect points, and survive waves of attacks. The game features 
 retro-inspired graphics and an engaging soundtrack that creates an exciting gaming experience.
 
-## Creator
+![RoboRise Gameplay](https://github.com/user-attachments/assets/eeb5c0bc-2c79-42f0-92de-55b2e9ca482f)
+
+## Developed by:
 Saad Ezeldin
 
 
